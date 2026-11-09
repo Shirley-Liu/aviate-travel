@@ -1,0 +1,4 @@
+Source: Denver International Airport airline directory
+https://www.flydenver.com/airlines/
+Logos are trademarks of their respective airlines.
+PNG originals are stored here and embedded in index.html for offline loading.
